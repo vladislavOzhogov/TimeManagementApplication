@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimeManagementApplication</string>
+    <string name="day_flow">Day Flow</string>
+    <string name="history_and_statistics">History And Statistics</string>
+    <string name="global_planning">Global Planning</string>
+    <string name="welcome">Welcome!</string>
+    <string name="click_here">Click here for a tutorial</string>
+    <string name="advertisement">Advertisement</string>
+</resources>
