@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "883203726274",
+    "project_id": "time-management-diploma-app",
+    "storage_bucket": "time-management-diploma-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883203726274:android:ced65d00dbacf36969945b",
+        "android_client_info": {
+          "package_name": "com.example.android.timemanagementapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883203726274-sllhcm1uupp5ro2m0a52dbnjlra8v54f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.timemanagementapplication",
+            "certificate_hash": "c1e4de8046e50ff35a2e7a889103a20aae4c56d0"
+          }
+        },
+        {
+          "client_id": "883203726274-s1i7smd7cqb08nr492q1nk4e9ud6dcns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB2YIBEabCHCqMURuS6zpQp0123BhE0XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883203726274-s1i7smd7cqb08nr492q1nk4e9ud6dcns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

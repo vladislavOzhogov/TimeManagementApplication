@@ -6,4 +6,18 @@
     <string name="welcome">Welcome!</string>
     <string name="click_here">Click here for a tutorial</string>
     <string name="advertisement">Advertisement</string>
+    <string name="taken_rewards">Taken Rewards</string>
+    <string name="done_tasks">Done Tasks</string>
+    <string name="awarded_points">Awarded Points</string>
+    <string name="spent_points">Spent Points</string>
+    <string name="create_a_reward">Create a Reward</string>
+    <string name="create_a_task">Create a Task</string>
+    <string name="reward_name">Reward name</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_out">Log out</string>
 </resources>
