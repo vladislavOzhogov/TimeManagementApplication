@@ -1,27 +1,27 @@
 package com.example.android.timemanagementapplication.controllers;
 
+import com.example.android.timemanagementapplication.Reward;
 import com.example.android.timemanagementapplication.Task;
-import com.google.firebase.auth.FirebaseUser;
 
-public class TaskController {
+public class RewardController {
     String userEmail;
-    Task task;
+    Reward reward;
     String date;
 
-    public TaskController(){}
+    public RewardController(){}
 
-    public TaskController(String userEmail, Task task, String date){
+    public RewardController(String userEmail, Reward reward, String date){
         setUserEmail(userEmail);
-        setTask(task);
+        setReward(reward);
         setDate(date);
     }
 
-    public Task getTask() {
-        return task;
+    public Reward getReward() {
+        return reward;
     }
 
-    public void setTask(Task task) {
-        this.task = task;
+    public void setReward(Reward reward) {
+        this.reward = reward;
     }
 
     public String getUserEmail() {

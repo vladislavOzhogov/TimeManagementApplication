@@ -66,23 +66,6 @@
                 android:textColor="@color/white"
                 tools:ignore="TextContrastCheck" />
 
-            <Button
-                android:id="@+id/historyAndStatisticsButton"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:backgroundTint="@color/light_blue"
-                android:text="@string/history_and_statistics"
-                android:textColor="@color/white"
-                tools:ignore="TextContrastCheck" />
-
-            <Button
-                android:id="@+id/globalPlanningButton"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="@string/global_planning"
-                android:textColor="@color/white"
-                tools:ignore="TextContrastCheck"
-                android:backgroundTint="@color/light_blue" />
 
             <Button
                 android:id="@+id/log_out"
